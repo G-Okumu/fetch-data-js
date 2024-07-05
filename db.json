@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "name": "Ashley",
+            "age": 25,
+            "marital-status": "very single",
+            "school": "Moringa"
+        },
+        {
+            "name": "Antony",
+            "age": 29,
+            "marital-status": "married",
+            "school": "Moringa"
+        },
+        {
+            "name": "Modesta",
+            "age": 23,
+            "marital-status": "very single",
+            "school": "Moringa"
+        }
+    ]
+}
